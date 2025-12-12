@@ -8,3 +8,5 @@ require mathlib from git
 
 @[default_target]
 lean_lib WorkspaceTheorems
+
+lean_lib MiniF2F
